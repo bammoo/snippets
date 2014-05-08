@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[debugger;]]></content>
     <tabTrigger>deb</tabTrigger>
+    <description>debugger</description>
     <scope>source.js</scope>
-    <description>no description</description>
 </snippet>

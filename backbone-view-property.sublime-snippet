@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[$0${1:[propertyName]}: {
+},$2]]></content>
+    <tabTrigger>bvp</tabTrigger>
+    <description>backbone view property</description>
+    <scope>source.js,md.md</scope>
+</snippet>
