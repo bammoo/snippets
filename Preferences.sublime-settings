@@ -1,0 +1,51 @@
+{
+	"auto_complete_selector": "source, text",
+	"bold_folder_labels ": true,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.orig",
+		"*.DS_Store"
+	],
+	"find_selected_text": true,
+	"flatland_sidebar_tree_large": true,
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+		"FTPSync",
+		"CTags",
+		"ApacheConf",
+		"Markdown",
+		"LiveReload"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"rulers":
+	[
+		70,
+		80
+	],
+	"show_full_path": true,
+	"show_tab_close_buttons": false,
+	"soda_folder_icons": true,
+	"theme": "Sodarized Light 3.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}
