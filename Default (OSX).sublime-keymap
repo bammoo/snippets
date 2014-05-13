@@ -1,4 +1,6 @@
 [
-    { "keys": ["super+u"], "command": "upper_case" },
-    { "keys": ["super+l"], "command": "lower_case" }
+    { "keys": ["super+alt+r"], "command": "revert_all" },
+    { "keys": ["super+ctrl+w"], "command": "close_all" },
+    { "keys": ["super+alt+u"], "command": "upper_case" },
+    { "keys": ["super+alt+l"], "command": "lower_case" }
 ]

@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Close Oldest File",
+		"CoffeeScript",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CSSFormat",
+		"CTags",
+		"DocBlockr",
+		"Front End Snippets",
+		"Frontend Light Color Scheme",
+		"FTPSync",
+		"Handlebars",
+		"INI",
+		"Jade",
+		"JsFormat",
+		"Lazy Backbone.js",
+		"LESS",
+		"MarkdownEditing",
+		"Move Tabs",
+		"Open project path by shortcut",
+		"Package Control",
+		"Prefixr",
+		"Pretty JSON",
+		"Revert All Files",
+		"Sass",
+		"SCSS",
+		"Search WordPress Codex",
+		"Theme - Pseudo OSX",
+		"Theme - Soda",
+		"Theme - Sodarized"
+	]
+}
