@@ -14,18 +14,23 @@
 		"*.lib",
 		"*.so",
 		"*.orig",
-		"*.DS_Store"
+		"*.DS_Store",
+		"*.css.map",
+		"*.scssc",
+		"*.orig",
+		"*.sublime-workspace"
 	],
-	"find_selected_text": true,
-	"flatland_sidebar_tree_large": true,
-	"flatland_square_tabs": true,
 	"folder_exclude_patterns":
 	[
+		".sass-cache",
 		".svn",
 		".git",
 		".hg",
 		"CVS"
 	],
+	"find_selected_text": true,
+	"flatland_sidebar_tree_large": true,
+	"flatland_square_tabs": true,
 	"font_size": 14.0,
 	"ignored_packages":
 	[
@@ -45,6 +50,8 @@
 		80
 	],
 	"show_full_path": true,
+	"translate_tabs_to_spaces": true,
+	"tab_size": 2,
 	"show_tab_close_buttons": false,
 	"soda_folder_icons": true,
 	"theme": "Sodarized Light 3.sublime-theme",
