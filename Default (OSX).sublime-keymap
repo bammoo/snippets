@@ -1,6 +1,16 @@
 [
+  // override default keys
     { "keys": ["super+alt+r"], "command": "revert_all" },
     { "keys": ["super+ctrl+w"], "command": "close_all" },
     { "keys": ["super+alt+u"], "command": "upper_case" },
-    { "keys": ["super+alt+l"], "command": "lower_case" }
+    { "keys": ["super+alt+l"], "command": "lower_case" },
+
+  // CaseConversion keys
+  { "keys": ["super+k", "super+s"], "command": "convert_to_snake"},
+  { "keys": ["super+k", "super+c"], "command": "convert_to_camel"},
+  { "keys": ["super+k", "super+p"], "command": "convert_to_pascal"},
+  { "keys": ["super+k", "super+d"], "command": "convert_to_dot"},
+  { "keys": ["super+k", "super+h"], "command": "convert_to_dash"},
+  { "keys": ["super+k", "super+w"], "command": "convert_to_separate_words"},
+  { "keys": ["super+k", "super+/"], "command": "convert_to_slash"}
 ]
