@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[// 调试模式： ]]></content>
+    <tabTrigger>cfd</tabTrigger>
+    <scope>source.js,source.php</scope>
+    <description>no description</description>
+</snippet>

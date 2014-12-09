@@ -31,7 +31,10 @@
 	"find_selected_text": true,
 	"flatland_sidebar_tree_large": true,
 	"flatland_square_tabs": true,
-	"font_size": 16.0,
+	"font_size": 14.0,
+	// 2014-10-14 去掉了 $ 符号
+  // Characters that are considered to separate words
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
 	"ignored_packages":
 	[
 		"Vintage",
@@ -42,6 +45,10 @@
 		"LiveReload",
 		"ConvertToUTF8"
 	],
+	// Set to false to hide the gutter altogether
+  "gutter": true,
+  // Spacing between the gutter and the text
+  "margin": 0,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"rulers":
@@ -54,7 +61,21 @@
 	"tab_size": 2,
 	"show_tab_close_buttons": false,
 	"soda_folder_icons": true,
-	"theme": "Sodarized Light 3.sublime-theme",
+	// "theme": "Sodarized Light 3.sublime-theme",
 	"vintage_start_in_command_mode": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"open_files_in_new_window": false,
+
+  // File indexing parses all files in the side bar, and builds an index of
+  // their symbols. This is required for Goto Definition to work.
+  "index_files": true,
+
+  // index_exclude_patterns indicate which files won't be indexed.
+  "index_exclude_patterns": [
+  	"*.log", 
+  	"*.orig", 
+  	"*.mo", 
+  	"*.scssc", 
+  	"*.min.map"
+  ]
 }

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[var obj = this;]]></content>
+    <content><![CDATA[var obj = this]]></content>
     <tabTrigger>varo</tabTrigger>
     <description>var obj = this in backbone view function</description>
     <scope>source.js</scope>

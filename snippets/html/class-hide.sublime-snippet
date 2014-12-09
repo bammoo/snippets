@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[class="hide"]]></content>
+    <tabTrigger>classhide</tabTrigger>
+    <scope>text.html,text.html - source.php</scope>
+    <description>no description</description>
+</snippet>

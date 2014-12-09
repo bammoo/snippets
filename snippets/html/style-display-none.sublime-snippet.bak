@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[style="display:none;"]]></content>
+    <tabTrigger>styldis</tabTrigger>
+    <scope>text.html,text.html - source.php</scope>
+    <description>no description</description>
+</snippet>
