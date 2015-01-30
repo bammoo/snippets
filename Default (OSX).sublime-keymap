@@ -20,8 +20,12 @@
   // convert 2 spaces to 4 spaces
   { "keys": ["ctrl+shift+alt+x"], "command": "run_macro_file", "args": {"file": "Packages/bammoo sublime/2spaces_to_4spaces.sublime-macro"} },
 
-   { "keys": ["super+ctrl+f"], "command": "reveal_in_side_bar"},
+  { "keys": ["super+ctrl+f"], "command": "reveal_in_side_bar"},
    // { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"},
    // { "keys": ["ctrl+f"], "command": "reveal_file_in_finder"},
-   { "keys": ["ctrl+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} }
+   { "keys": ["ctrl+f"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
+
+   // 2015-1-13 reindent html etc.
+   { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } }
+
 ]

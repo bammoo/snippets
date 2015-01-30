@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[v($2);]]></content>
+    <tabTrigger>v</tabTrigger>
+    <scope>source.php</scope>
+    <description>no description</description>
+</snippet>

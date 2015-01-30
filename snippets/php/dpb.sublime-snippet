@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[debug_print_backtrace();]]></content>
+    <tabTrigger>dpb</tabTrigger>
+    <scope>source.php</scope>
+    <description>no description</description>
+</snippet>
