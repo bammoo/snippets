@@ -1,2 +1,37 @@
 Sublime Text Snippets
 ========
+
+Also recommend plugins:
+
+    "ApacheConf.tmLanguage",
+    "Bootstrap 3 Snippets",
+    "Close Oldest File",
+    "CoffeeScript",
+    "CSS Format",
+    "CSS3_Syntax",
+    "DocBlockr",
+    "Emmet",
+    "Front End Snippets",
+    "Frontend Light Color Scheme",
+    "Handlebars",
+    "HTML5",
+    "HtmlTidy",
+    "INI",
+    "Jade",
+    "JsFormat",
+    "LESS",
+    "MarkdownEditing",
+    "Move Tabs",
+    "nginx",
+    "Prefixr",
+    "Pretty JSON",
+    "RegReplace",
+    "Revert All Files",
+    "Sass",
+    "SCSS",
+    "SCSS Snippets",
+    "Search WordPress Codex",
+    "sublime-github",
+    "Theme - Soda",
+    "Theme - Sodarized",
+    "WordHighlight"
