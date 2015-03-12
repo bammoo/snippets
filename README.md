@@ -1,13 +1,2 @@
-[TOC]
-
-
-[TOC]
-
-
-snippets
+Sublime Text Snippets
 ========
-
-
-# test
-
-## test
