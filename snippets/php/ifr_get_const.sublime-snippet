@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[ifr_get_const($2);]]></content>
+    <content><![CDATA[ifr_get_const($2)]]></content>
     <tabTrigger>ifr_get_const</tabTrigger>
     <scope>source.php</scope>
     <description>no description</description>
