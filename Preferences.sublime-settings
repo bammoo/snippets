@@ -8,7 +8,7 @@
 		"*.pyo",
 		"*.exe",
 		"*.dll",
-		"*.obj",
+		"*.obj",		
 		"*.o",
 		"*.a",
 		"*.lib",
@@ -24,6 +24,7 @@
 	[
 		".sass-cache",
 		".svn",
+		"*.idea",
 		".git",
 		".hg",
 		"CVS"
@@ -34,7 +35,7 @@
 	"font_size": 14.0,
 	// 2014-10-14 去掉了 $ 符号
   // Characters that are considered to separate words
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$",
 	"ignored_packages":
 	[
 		"Vintage",
