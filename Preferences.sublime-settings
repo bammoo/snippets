@@ -35,7 +35,7 @@
 	"font_size": 14.0,
 	// 2014-10-14 去掉了 $ 符号
   // Characters that are considered to separate words
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$",
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$_",
 	"ignored_packages":
 	[
 		"Vintage",
