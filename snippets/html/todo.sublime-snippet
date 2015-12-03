@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<!-- TODO: $1 -->]]></content>
+    <tabTrigger>to</tabTrigger>
+    <scope>text.html,text.html - source.php</scope>
+    <description>no description</description>
+</snippet>

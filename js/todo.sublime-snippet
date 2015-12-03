@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[// TODO: ]]></content>
     <tabTrigger>to</tabTrigger>
-    <!-- <scope>source.js,scss.scss,css.css,source.php</scope> -->
+    <scope>source.js,scss.scss,css.css,source.php,source.python</scope>
     <description>no description</description>
 </snippet>
