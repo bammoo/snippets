@@ -11,16 +11,12 @@
   { "keys": ["super+k", "super+c"], "command": "convert_to_camel"},
   { "keys": ["super+k", "super+p"], "command": "convert_to_pascal"},
   { "keys": ["super+k", "super+t"], "command": "convert_to_dot"},
-  // super+d is conflict with skip multiselect
+  // `super+k then super+d` is conflict with skip multiselect
   // { "keys": ["super+k", "super+d"], "command": "convert_to_dot"},
   { "keys": ["super+k", "super+h"], "command": "convert_to_dash"},
   { "keys": ["super+k", "super+w"], "command": "convert_to_separate_words"},
   { "keys": ["super+k", "super+/"], "command": "convert_to_slash"},
 
-  // convert 4 spaces to 2 spaces
-  { "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/bammoo sublime/4spaces_to_2spaces.sublime-macro"} },
-  // convert 2 spaces to 4 spaces
-  { "keys": ["ctrl+shift+alt+x"], "command": "run_macro_file", "args": {"file": "Packages/bammoo sublime/2spaces_to_4spaces.sublime-macro"} },
 
   { "keys": ["super+ctrl+f"], "command": "reveal_in_side_bar"},
   // { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"},
@@ -36,6 +32,10 @@
     "command": "expand_region",
     "args": {"undo": true},
     "context": [{ "key": "expand_region_soft_undo" }]
-  }
+  },
+
+
+  { "keys": ["ctrl+alt+up"], "command": "scroll_lines", "args": {"amount": 11.0} },
+  { "keys": ["ctrl+alt+down"], "command": "scroll_lines", "args": {"amount": -11.0} }
 
 ]

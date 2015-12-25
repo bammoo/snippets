@@ -1,0 +1,7 @@
+{
+  // 2014-11-21 使用插件 wordhighlight 修复此 bug
+  // 2014-11-19 这里似乎没有起作用
+  // 2014-10-14 去掉了 $ 符号
+  // Characters that are considered to separate words
+  "word_separators": "./\\()\"':,.;<>~!@#%^&*|+=[]{}`~?"
+}
