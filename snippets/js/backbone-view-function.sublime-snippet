@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[_$0${1:[functionName]}: function($3) {
+    <content><![CDATA[_$0${1:[functionName]}: function ($3) {
   var obj = this$4;
   $5
   return obj;
