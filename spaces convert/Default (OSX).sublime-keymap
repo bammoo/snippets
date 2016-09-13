@@ -1,0 +1,6 @@
+[
+  // convert 4 spaces to 2 spaces
+  { "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/bammoo sublime/spaces convert/4spaces_to_2spaces.sublime-macro"} },
+  // convert 2 spaces to 4 spaces
+  { "keys": ["ctrl+shift+alt+x"], "command": "run_macro_file", "args": {"file": "Packages/bammoo sublime/spaces convert/2spaces_to_4spaces.sublime-macro"} }
+]

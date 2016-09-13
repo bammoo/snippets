@@ -1,0 +1,8 @@
+{
+	"extensions":
+	[
+	],
+  // 2014-10-14 去掉了 $ 符号
+  // Characters that are considered to separate words
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+}
