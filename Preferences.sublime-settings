@@ -35,7 +35,7 @@
 	"font_size": 14.0,
 	// 2014-10-14 去掉了 $ 符号
   // Characters that are considered to separate words
-  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$_",
+  "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?$",
 	"ignored_packages":
 	[
 		"Vintage",
@@ -50,8 +50,8 @@
   "gutter": true,
   // Spacing between the gutter and the text
   "margin": 0,
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"rulers":
 	[
 		70,
@@ -78,5 +78,6 @@
   	"*.mo", 
   	"*.scssc", 
   	"*.min.map"
-  ]
+  ],
+  "draw_white_space": "all"
 }
