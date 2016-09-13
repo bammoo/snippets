@@ -34,6 +34,23 @@
     "context": [{ "key": "expand_region_soft_undo" }]
   },
 
+  // `cosole.log()`
+  { 
+    "keys": ["alt+d"],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "console.log(${1:}$SELECTION)${0}"
+    }
+  },
+
+  // es arrow function `() => `
+  { 
+    "keys": ["alt+."],
+    "command": "insert_snippet",
+    "args": {
+      "contents": "(${1:}$SELECTION) => ${0}"
+    }
+  },
 
   { "keys": ["ctrl+alt+up"], "command": "scroll_lines", "args": {"amount": 11.0} },
   { "keys": ["ctrl+alt+down"], "command": "scroll_lines", "args": {"amount": -11.0} }
